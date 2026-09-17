@@ -4,7 +4,7 @@
 
 Compare an env template with a local env file. Find missing, empty and unexpected keys without exposing values in reports.
 
-[Open the app](https://utokyo2026.github.io/envlens/) · [Download offline HTML](https://github.com/UTokyo2026/envlens/releases/latest) · [简体中文](README.zh-CN.md)
+[Open the app](https://sq2100.com/envlens/) · [Download offline HTML](https://github.com/sq2100/envlens/releases/latest) · [简体中文](README.zh-CN.md)
 
 ![EnvLens example](docs/demo.png)
 
@@ -20,7 +20,7 @@ No uploads, account, API key, tracking scripts, or runtime CDN dependencies. The
 
 ## Quick start
 
-Open the [hosted app](https://utokyo2026.github.io/envlens/) and click **Try an example**. Or download the HTML from [Releases](https://github.com/UTokyo2026/envlens/releases/latest), then open it in a modern desktop browser.
+Open the [hosted app](https://sq2100.com/envlens/) and click **Try an example**. Or download the HTML from [Releases](https://github.com/sq2100/envlens/releases/latest), then open it in a modern desktop browser.
 
 To build from source (Node.js 20.19+):
 

@@ -2,7 +2,7 @@
 
 对照模板核对环境变量，报告只包含键名，不包含值。
 
-[在线使用](https://utokyo2026.github.io/envlens/) · [下载离线网页](https://github.com/UTokyo2026/envlens/releases/latest) · [完整英文说明](README.md)
+[在线使用](https://sq2100.com/envlens/) · [下载离线网页](https://github.com/sq2100/envlens/releases/latest) · [完整英文说明](README.md)
 
 ![演示界面](docs/demo.png)
 
